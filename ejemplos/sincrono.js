@@ -1,4 +1,4 @@
- function cuatro () {
+ /*function cuatro () {
     console.log("cuatro")
 }
 
@@ -19,5 +19,5 @@ function uno () {
 
 uno()
 
-
+*/
 
